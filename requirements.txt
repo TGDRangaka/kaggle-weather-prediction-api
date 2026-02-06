@@ -1,0 +1,7 @@
+flask
+flask-cors
+scikit-learn
+pandas
+numpy
+joblib
+# tensorflow # Currently not supported on Python 3.14. Install Python 3.12 if ANN is required.
