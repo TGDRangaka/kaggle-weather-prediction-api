@@ -4,4 +4,6 @@ scikit-learn
 pandas
 numpy
 joblib
-# tensorflow # Currently not supported on Python 3.14. Install Python 3.12 if ANN is required.
+keras
+torch
+# Note: Using Keras with Torch backend due to TensorFlow incompatibility on Python 3.14
